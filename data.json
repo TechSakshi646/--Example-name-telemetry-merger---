@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-07-14T08:30:00Z",
+    "source": "sensor-A",
+    "value": 42
+  },
+  {
+    "timestamp": "2025-07-14T08:31:00Z",
+    "source": "sensor-B",
+    "value": 36
+  }
+]
